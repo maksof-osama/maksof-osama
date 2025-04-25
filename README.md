@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
 
-## I'm a Jr Full Stack Developer at Maksof
+## I'm a Full Stack Developer at Maksof
 
 - 👨‍💻 I'm currently working at Maksof.
 - 📚 Learning everything about Frontend and Backend technologies 😅
