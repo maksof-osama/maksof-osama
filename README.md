@@ -1,79 +1,95 @@
-### Hi there 👋 I'm [Maksof Osama!](https://github.com/maksof-osama)
+<!--============================ HEADER ============================-->
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
+<h1 align="center">
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> I'm
+  <a href="https://github.com/maksof-osama">Maksof Osama</a>
+</h1>
 
-## I'm a Full Stack Developer at Maksof
+<h3 align="center">Full Stack Developer @ Maksof 🚀</h3>
 
-- 👨‍💻 I'm currently working at Maksof.
-- 📚 Learning everything about Frontend and Backend technologies 😅
-- 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=maksof-osama&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/syed-osama-alam" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack-success?style=flat" alt="focus" />
+</p>
+
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+
+### 👨‍💻 About Me
+
+- 🏢 Currently working as a **Full Stack Developer at Maksof**
+- 📚 Learning everything about **Frontend & Backend** technologies
+- 🛠️ I mostly build with **React, Next.js, Node/Express, MongoDB & PostgreSQL**
+- 💪 **Goal:** Learn more technologies — never stop creating new ideas
+- 💬 Ask me about **JavaScript, TypeScript, React or anything web**
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/syed-osama-alam)
+
+<br clear="right" />
 
 ---
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=maksof-osama&theme=dark&show_icons=true&include_all_commits=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=maksof-osama&theme=dark&hide_border=false" /> 
-</td>
 
-<td width="50%" align="center">
+<!--============================ STATS ============================-->
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=maksof-osama&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
+<div align="center">
 
-<!--- trophy (start) -->
-<div align=center>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=maksof-osama&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maksof-osama&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+  <br /><br />
+
+  <img width="65%" src="https://streak-stats.demolab.com/?user=maksof-osama&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+  <br /><br />
+
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=maksof-osama&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+
+  <br /><br />
+
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=maksof-osama&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
+    <img width="90%" src="https://github-profile-trophy.vercel.app/?username=maksof-osama&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-frame=true" alt="Trophies" />
+  </a>
 
-</p>        
-<!--- stats (end) -->
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
 </div>
-<!--tech stack icons-->
+
+---
+
+<!--============================ TECH STACK ============================-->
+
+<h2 align="center">🛠️ Technologies That I Know</h2>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aws,ts,js,py,angular,nextjs,react,redux,git,express,firebase,github,html,linux,md,flutter,materialui,mongodb,mysql,postgres,postman,tailwind&perline=14" />
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,angular,html,css,tailwind,materialui&perline=10" />
+  </a>
+  <br />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,py,flutter,mongodb,mysql,postgres,firebase,aws,linux,git,github,postman,md&perline=14" />
   </a>
 </p>
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com/in/syed-osama-alam" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://1010nishant.hashnode.dev/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-  
-</p>
-
-<!--profile visit count-->
-<div align="center">
-<br/>
-
 ---
 
-Credit: [Maksof Osama](https://github.com/maksof-osama)
+<!--============================ CONNECT ============================-->
 
-Last edited on: 9/7/2023
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/syed-osama-alam" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/maksof-osama" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub" />
+  </a>
+  &nbsp;
+  <!-- TODO: apna blog / portfolio ka link yahan lagayen, warna ye block delete kar dein -->
+  <a href="https://hashnode.com/@maksof-osama" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" height="30" alt="Hashnode" />
+  </a>
+</p>
+
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/maksof-osama">Maksof Osama</a></i>
+</p>
