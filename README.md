@@ -1,78 +1,126 @@
 <!--============================ HEADER ============================-->
 
 <h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> I'm Osama
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" /> I'm Osama Nasir
 </h1>
 
-<h3 align="center">Full Stack Developer @ Maksof 🚀</h3>
+<h3 align="center">Full Stack Developer · React · Next.js · Node.js · Python · GenAI</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maksof-osama&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <a href="https://www.linkedin.com/in/osama-nasir-dev" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-success?style=flat" alt="focus" />
+  <img src="https://img.shields.io/badge/Open%20to-Full--time%20Roles-2ea44f?style=for-the-badge" alt="open to work" />
+  <img src="https://img.shields.io/badge/Based%20in-Karachi,%20PK-FF6B6B?style=for-the-badge" alt="location" />
+  <img src="https://komarev.com/ghpvc/?username=maksof-osama&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
 </p>
 
-<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
+<img align="right" alt="Coding" width="340" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" />
 
-### 👨‍💻 About Me
+### About Me
 
-- 🏢 Currently working as a **Full Stack Developer at Maksof**
-- 📚 Learning everything about **Frontend & Backend** technologies
-- 🛠️ I mostly build with **React, Next.js, Node/Express, MongoDB & PostgreSQL**
-- 💪 **Goal:** Learn more technologies — never stop creating new ideas
-- 💬 Ask me about **JavaScript, TypeScript, React or anything web**
-- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/osama-nasir-dev)
+Full Stack Developer with **3+ years of experience** architecting, developing and deploying
+scalable web applications and automated workflows.
+
+- 🏢 Currently **Full Stack Developer @ Maksof** — building with Next.js, React, Node.js & Fastify
+- 🤖 Working with **GenAI**: OpenAI & Claude APIs, RAG pipelines, LangChain, prompt engineering
+- ⚙️ Automating workflows with **n8n** and AI-assisted engineering tooling
+- 🧹 I care about **clean, maintainable code**, performant UIs and fast, reliable backends
+- 📩 **Open to** full-time Software Engineering roles — Remote, Hybrid or On-site
+- 💬 Ask me about **React, Next.js, Node.js, Django or integrating LLMs into real products**
 
 <br clear="right" />
 
 ---
 
+<!--============================ TECH STACK ============================-->
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,redux,materialui,html,css&perline=10" />
+</p>
+
+<p align="center"><b>Backend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,py,django&perline=8" />
+  <br />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat&logo=fastify&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat&logo=fastapi&logoColor=white" />
+</p>
+
+<p align="center"><b>Databases & ORM</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,mysql&perline=8" />
+</p>
+
+<p align="center"><b>AI & Automation</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=flat&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4B0082?style=flat" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6E56CF?style=flat" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white" />
+</p>
+
+<p align="center"><b>Tools & Platforms</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vercel,firebase,linux,postman&perline=10" />
+</p>
+
+---
+
+<!--============================ EXPERIENCE ============================-->
+
+<h2 align="center">💼 Experience</h2>
+
+**Full Stack Developer** — *Maksof* · Karachi, PK · `Dec 2022 – Present`
+> Architected and deployed scalable full-stack web applications using Next.js, React, Node.js and Fastify.
+> Leveraged Claude Code and AI-assisted engineering workflows to accelerate feature delivery and refactoring.
+
+**Software Engineer** — *HashOne Digital (Pvt.) Ltd* · Karachi, PK · `Jan 2021 – Feb 2022`
+> Developed performant user interfaces and backend features for client web projects using React and Node.js.
+> Integrated third-party APIs and optimized database queries for efficient data retrieval.
+
+---
+
 <!--============================ STATS ============================
-  NOTE: github-readme-stats.vercel.app (official instance) is currently
-  paused / rate-limited, so mirrors are used below. If any card breaks
-  again, just swap the domain — backup mirrors are listed in comments.
+  NOTE: sirf wohi cards rakhe hain jo private contributions bhi count
+  karte hain (dono profile contribution graph se data lete hain).
+  Stats / Top-Languages / Trophy cards hata diye gaye hain kyunki wo
+  sirf public repos parhte hain aur adhoori tasveer dikhate hain.
+
+  ⚠️ Zaroori: GitHub -> Settings -> Public profile ->
+  "Include private contributions on my profile" ON hona chahiye.
 ================================================================-->
+
+<h2 align="center">📊 Contribution Activity</h2>
 
 <div align="center">
 
-  <!-- Backup: https://github-readme-stats.vercel.app -->
-  <img width="49%" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=maksof-osama&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  <img width="41%" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=maksof-osama&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" />
-
-  <br /><br />
-
   <!-- Backup: https://streak-stats.demolab.com -->
-  <img width="65%" src="https://github-readme-streak-stats-eight.vercel.app/?user=maksof-osama&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats-eight.vercel.app/?user=maksof-osama&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br /><br />
 
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=maksof-osama&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 
-  <br /><br />
-
-  <!-- Backup: https://github-profile-trophy-orcin-eta.vercel.app -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img width="90%" src="https://trophy.benkou.dev/?username=maksof-osama&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-frame=true" alt="Trophies" />
-  </a>
-
 </div>
+
+<p align="center">
+  <sub><i>Zyada tar kaam private / client repositories mein hai, isliye public repo stats poori tasveer nahi dikhate.</i></sub>
+</p>
 
 ---
 
-<!--============================ TECH STACK ============================-->
+<!--============================ PROJECTS ============================-->
 
-<h2 align="center">🛠️ Technologies That I Know</h2>
+<h2 align="center">📌 Featured Work</h2>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,angular,html,css,tailwind,materialui&perline=10" />
-  </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py,flutter,mongodb,mysql,postgres,firebase,aws,linux,git,github,postman,md&perline=14" />
-  </a>
+  Neeche pinned repositories dekhein — ya LinkedIn par mere client projects ki tafseel mojood hai.
 </p>
 
 ---
@@ -92,5 +140,5 @@
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/maksof-osama">maksof-osama</a></i>
+  <i>📩 Open to full-time Software Engineering roles — Remote, Hybrid or On-site.</i>
 </p>
