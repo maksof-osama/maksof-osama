@@ -105,7 +105,8 @@ scalable web applications and automated workflows.
 
   <br /><br />
 
-<img width="95%" src="https://ghchart.rshah.org/70a5fd/maksof-osama" alt="Contribution Chart" />
+  <img width="95%" src="https://ghchart.rshah.org/1f6feb/maksof-osama" alt="Contribution Chart" />
+
 </div>
 
 <p align="center">
